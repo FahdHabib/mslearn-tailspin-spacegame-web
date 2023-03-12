@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/muhammadfahadhabib/BAT/_apis/build/status/FahdHabib.mslearn-tailspin-spacegame-web?branchName=code-workflow)](https://dev.azure.com/muhammadfahadhabib/BAT/_build/latest?definitionId=1&branchName=code-workflow)
 
 # Contributing
 
